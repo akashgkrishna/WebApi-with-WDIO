@@ -1,0 +1,8 @@
+{
+    "dev": {
+        "baseUrl": "https://bookcart.azurewebsites.net/"
+    },
+    "qa": {
+        "baseUrl": "https://bookcart.azurewebsites.net/"
+    }
+}
